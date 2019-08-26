@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0295d7</color>
+    <color name="colorcardview">#ffba25</color>
+    <color name="colorPrimaryDark">#03A3EB</color>
+    <color name="colorAccent">#0295d7</color>
+    <color name="colorRatingbar">#D81B60</color>
+
+    <color name="back1">#7c4dff</color>
+    <color name="back2">#ffb300</color>
+    <color name="back3">#00bfa5</color>
+    <color name="back4">#ff4081</color>
+    <color name="back5">#1E88E5</color>
+    <color name="back6">#FF3D00</color>
+    <color name="back7">#9C27B0</color>
+    <color name="b2b2b2">#2b2b2b</color>
+
+
+    <!--use color martial 400-->
+    <color name="option_color_1">#03A3EB</color>
+    <color name="option_color_2">#26A69A</color>
+    <color name="option_color_3">#EC407A</color>
+    <color name="option_color_4">#66BB6A</color>
+    <color name="option_color_5">#AB47BC</color>
+    <color name="option_color_6">#7E57C2</color>
+    <color name="option_color_7">#5C6BC0</color>
+    <color name="option_color_8">#EF5350</color>
+    <color name="option_color_9">#FFA726</color>
+    <color name="option_color_10">#FF7043</color>
+
+</resources>
