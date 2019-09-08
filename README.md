@@ -7,9 +7,15 @@ https://play.google.com/store/apps/details?id=com.hosnydev.qrlover
  
 ---
 status:       PUBLISHED
+
 technologies: [Android]
+
 categories:   [Background]
+
 languages:    [Java]
+
 solutions:    [Mobile]
+
 github:       QRLover
+
  
