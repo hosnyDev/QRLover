@@ -3,3 +3,13 @@ QR Lover app helps user to scan and generate qr code and save image after genera
 
 you can download app on google play 
 https://play.google.com/store/apps/details?id=com.hosnydev.qrlover
+
+ 
+---
+status:       PUBLISHED
+technologies: [Android]
+categories:   [Background]
+languages:    [Java]
+solutions:    [Mobile]
+github:       QRLover
+ 
